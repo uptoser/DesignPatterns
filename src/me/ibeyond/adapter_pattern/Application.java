@@ -9,6 +9,7 @@ public class Application {
 	 * 适配器模式：Target Adaptee Adapeter
 	 */
 	public static void main(String[] args) {
+		//test
 	}
 
 }
