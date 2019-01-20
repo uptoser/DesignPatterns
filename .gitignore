@@ -38,6 +38,9 @@ yarn-error.log*
 target
 .svn
 _svn
+.classpath
+.project
+
 
 ### IntelliJ IDEA ###
 .idea
